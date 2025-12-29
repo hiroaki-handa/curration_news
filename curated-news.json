@@ -1,5 +1,41 @@
 [
   {
+    "id": 27,
+    "title": "【質問】データを出してくれないです。隣の部署がいろいろ理由をつけてデータを出してくれないです。",
+    "url": "https://datayokocho.info/?p=235",
+    "source_name": "データ横丁",
+    "summary": "データマネジメントの現場で頑張っているや、これから目指す人を応援するラジオ番組は毎週月曜日に更新中です。リスナーさんからのお便りや質問に、データマネジメント実務家が回答する形式です。音声メディアの特性いかして、気軽に聞い […]",
+    "curator_comment": "Win-Winの関係を作るためには、お互いの部署のミッションを理解し合う、信頼関係を構築する、前段が大切。",
+    "approved_at": "2025-12-29 11:15:49",
+    "published_at": "Sun, 20 Oct 2024 02:07:01 +0000",
+    "category": "data-management",
+    "image_url": "https://datayokocho.info/wp-content/uploads/2024/10/radio5.png"
+  },
+  {
+    "id": 24,
+    "title": "ナレッジグラフとAIの未来を語る｜Loysさんの記事を読んで",
+    "url": "https://datayokocho.info/?p=340",
+    "source_name": "データ横丁",
+    "summary": "データ界のブログや記事を紹介するコーナーです。本編を読むキッカケとなればと思います。 はじめに：Loysさんについて 最近、データマネジメントやナレッジグラフの領域で注目されている人物に、Loys Belleguie（ロ […]",
+    "curator_comment": "AIを活躍させるための、独自知を取り込むためのアーキテクチャが詰まっており必見。",
+    "approved_at": "2025-12-29 11:11:38",
+    "published_at": "Tue, 29 Apr 2025 09:07:22 +0000",
+    "category": "data-management",
+    "image_url": "https://datayokocho.info/wp-content/uploads/2025/04/s20250429.png"
+  },
+  {
+    "id": 32,
+    "title": "生成AI/AIエージェントの次は「フィジカルAI」─菱洋エレクトロが注力するデジタルツイン基盤 | IT Leaders",
+    "url": "https://it.impress.co.jp/articles/-/28313",
+    "source_name": "IT Leaders",
+    "summary": "AIががロボットや機械に搭載され、センサーで現実世界を認識して自律的に判断・行動する「フィジカルAI」が注目を集めている。菱洋エレクトロは、フィジカルAIの到来を見据え、普及期に向けた基盤整備の支援を打ち出している。同社の説明会に、協業パートナーのNVIDIAと、サービスロボット/AIを手がけるavatarin（アバターイン）のキーパーソンが登壇。フィジカルAIにおけるデジタルツインの重要性やサービス業の領域における可能性について語った。",
+    "curator_comment": "フィジカルAI",
+    "approved_at": "2025-12-29 11:00:12",
+    "published_at": "Mon, 29 Dec 2025 10:00:00 +0900",
+    "category": "data-management",
+    "image_url": "https://it.impress.co.jp/mwimgs/2/5/400/img_2524e609fee289819dab7eafeaf0f02485516.jpg"
+  },
+  {
     "id": 30,
     "title": "【質問】情報工学を専攻の大学生です。将来データエンジニアを目指してたいです日々の業務のやりがいや困難を教えてくださいブログ2",
     "url": "https://datayokocho.info/?p=51",
